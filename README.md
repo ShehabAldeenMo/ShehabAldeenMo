@@ -7,6 +7,8 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1UmEJhEXZOfKjXwsW4IUdXmQbY0t-PsO7/view?usp=drive_link](https://drive.google.com/file/d/1UmEJhEXZOfKjXwsW4IUdXmQbY0t-PsO7/view?usp=drive_link)
 
+[![ShehabAldeenMo's GitHub | Stats](https://stats.quine.sh/ShehabAldeenMo/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ShehabAldeenMo)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shehab aldeen mohammed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shehab aldeen mohammed" height="30" width="40" /></a>
