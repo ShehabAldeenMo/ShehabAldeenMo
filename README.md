@@ -11,7 +11,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1UmEJhEXZOfKjXwsW4IUdXmQbY0t-PsO7/view?usp=drive_link](https://drive.google.com/file/d/1UmEJhEXZOfKjXwsW4IUdXmQbY0t-PsO7/view?usp=drive_link)
 
-[![ShehabAldeenMo's GitHub | Stats](https://stats.quine.sh/ShehabAldeenMo/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ShehabAldeenMo)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
