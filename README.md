@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **www.linkedin.com/in/shehab-aldeen-mohammed**
 
-- **Senior Electronics and Electrical Communication Engineering student at Cairo University**
+- Senior Electronics and Electrical Communication Engineering student at Cairo University
 
 - ESD Head of control team at Cairo University Formula Racing Team
 
