@@ -5,6 +5,10 @@
 
 - 📫 How to reach me **www.linkedin.com/in/shehab-aldeen-mohammed**
 
+- **Senior Electronics and Electrical Communication Engineering student at Cairo University**
+
+- ESD Head of control team at Cairo University Formula Racing Team
+
 - 📄 Know about my experiences [https://drive.google.com/file/d/1UmEJhEXZOfKjXwsW4IUdXmQbY0t-PsO7/view?usp=drive_link](https://drive.google.com/file/d/1UmEJhEXZOfKjXwsW4IUdXmQbY0t-PsO7/view?usp=drive_link)
 
 [![ShehabAldeenMo's GitHub | Stats](https://stats.quine.sh/ShehabAldeenMo/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ShehabAldeenMo)
