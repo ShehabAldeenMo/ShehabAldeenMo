@@ -11,7 +11,7 @@
   <a href="https://github.com/ShehabAldeenMo">
     <img src="https://img.shields.io/badge/GitHub-ShehabAldeenMo-black?logo=github" alt="GitHub">
   </a>
-  <a href="https://drive.google.com/file/d/1UmEJhEXZOfKjXwsW4IUdXmQbY0t-PsO7/view?usp=drive_link">
+  <a href="https://drive.google.com/file/d/16fDSIRW1uMqlindZiyHALZXG5I48jpUW/view?usp=drive_link">
     <img src="https://img.shields.io/badge/Resume-View-green?logo=google-drive" alt="Resume">
   </a>
 </p>
@@ -22,7 +22,7 @@
 
 - 🎓 **Senior Electronics and Electrical Communications Engineering student** at **Cairo University** (CGPA: 85% - Excellent).
 - 💻 Passionate about **Embedded Systems**, **System Programming**, and **Embedded Linux**.
-- 🚀 Currently training with **STMicroelectronics** on **Intro & Advanced System Programming under Linux**.
+- 🚀 Trained at **STMicroelectronics** on **Intro & Advanced System Programming under Linux**.
 - 🏎️ **Electrical Team Director** at **Cairo University Racing Formula Student**, leading 5 sub-teams in EV development.
 - 🔧 Love creating tools and systems that improve performance, debugging, and smart communication.
 
@@ -79,7 +79,7 @@
 ### 🤝 Voluntary Engagements
 
 - 🧑‍🏫 **Volunteer Instructor** @ Asar-Team  
-  Mentored 40+ students on embedded systems, teamwork, and project execution.
+  Mentored 40+ students on teamwork, and project execution.
 
 ---
 
