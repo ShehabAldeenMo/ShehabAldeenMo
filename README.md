@@ -1,21 +1,86 @@
 <h1 align="center">Hi 👋, I'm Shehab Aldeen Mohammed Refaiy</h1>
-<h3 align="center">An Embedded System Developer From Egypt</h3>
+<h3 align="center">An Embedded Systems Developer from Egypt</h3>
 
-- 🌱 I’m currently learning **Embedded Linux**
-
-- 📫 How to reach me **www.linkedin.com/in/shehab-aldeen-mohammed**
-
-- Senior Electronics and Electrical Communication Engineering student at Cairo University
-
-- ESD Head of control team at Cairo University Formula Racing Team
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1UmEJhEXZOfKjXwsW4IUdXmQbY0t-PsO7/view?usp=drive_link](https://drive.google.com/file/d/1UmEJhEXZOfKjXwsW4IUdXmQbY0t-PsO7/view?usp=drive_link)
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shehab aldeen mohammed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shehab aldeen mohammed" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/shehab-aldeen-mohammed" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-ShehabAldeen-blue?logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:shehabmohammed2002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-shehabmohammed2002%40gmail.com-red?logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/ShehabAldeenMo">
+    <img src="https://img.shields.io/badge/GitHub-ShehabAldeenMo-black?logo=github" alt="GitHub">
+  </a>
+  <a href="https://drive.google.com/file/d/1UmEJhEXZOfKjXwsW4IUdXmQbY0t-PsO7/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/Resume-View-green?logo=google-drive" alt="Resume">
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+### 👨‍🎓 About Me
+
+- 🎓 **Senior Electronics and Electrical Communications Engineering student** at **Cairo University** (CGPA: 85% - Excellent).
+- 💻 Passionate about **Embedded Systems**, **System Programming**, and **Embedded Linux**.
+- 🚀 Currently training with **STMicroelectronics** on **Intro & Advanced System Programming under Linux**.
+- 🏎️ **Electrical Team Director** at **Cairo University Racing Formula Student**, leading 5 sub-teams in EV development.
+- 🔧 Love creating tools and systems that improve performance, debugging, and smart communication.
+
+---
+
+### 🧠 What I’m Learning & Working On
+
+- 🔥 Embedded Linux, Kernel Architecture, YOCTO, SOME/IP, Adaptive AUTOSAR
+- 📡 Real-time systems, Multi-threading, Signal Handling, Shared Memory
+- ⚙️ Modern C++, Bash, GDB, Makefiles, DevOps with CI/CD and Jenkins
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
+</p>
+
+---
+
+### 🧩 Projects
+
+#### 🔹 [Shellio (Shell Project)](https://github.com/ShehabAldeenMo/STMicroelectronics-Tasks/tree/main/5-%20Shellio)
+> Custom Unix-like shell that supports built-in commands, piping, redirection, variables, and history stack.
+
+#### 🔹 [Heap Memory Manager](https://github.com/ShehabAldeenMo/STMicroelectronics-Tasks/tree/main/7-LibHMM)
+> Re-implemented malloc, calloc, realloc, and free using first-fit in C, then converted into a dynamic library used in real applications like `vim`.
+
+#### 🔹 [Firmware Over-The-Air](https://github.com/ShehabAldeenMo/Fireware-Over-The-Air)
+> Secure wireless firmware update system for Cortex-M microcontrollers via ESP32, MQTT, CAN, and UART — cut update time by 90%.
+
+#### 🔹 [NeuroDrive (Graduation Project)]
+> Sponsored by Vehiclevo — features an Adaptive AUTOSAR stack with driving assist, real-time monitoring, and infotainment system using C++, Qt/QML, and Linux.
+
+---
+
+### 📚 Courses & Certifications
+
+- Embedded Linux Bullet — Eng. Hazem Khaled  
+- IoT — SpimeSenseLabs & ITI  
+- Advanced Embedded Systems — NGEN Innovations  
+- Embedded Diploma — IMT  
+- OOP — MaharTech
+
+---
+
+### 🤝 Voluntary Engagements
+
+- 🧑‍🏫 **Volunteer Instructor** @ Asar-Team  
+  Mentored 40+ students on embedded systems, teamwork, and project execution.
+
+---
+
+📫 **Let's connect and build the future of embedded tech together!**
